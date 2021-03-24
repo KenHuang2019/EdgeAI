@@ -7,7 +7,7 @@
 
 
 <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
-<div style="display: block; margin-left: auto; margin-right: auto;">
+<p style="display: block; text-align: center;">
 $$
 \mathcal{L}_{KL} = 
 \sum_{\boldsymbol{x}_u \in \mathcal{X}_U} 
@@ -16,7 +16,7 @@ KL(f_c(\boldsymbol{c}_u),f_c(\boldsymbol{\bar{h}}_u)) \  +
 \sum_{x_u^K \in \mathit{\Omega_{x_u}^p}} KL(f_c(\boldsymbol{c}_u),f_c(\boldsymbol{\bar{h}}_u^k)) 
 \right)
 $$
-</div>
+</p>
 <a style="display: block; text-align: center;" href="https://arxiv.org/abs/2007.05934">Chenyang Si, Xuecheng Nie, Wei Wang, Liang Wang, Tieniu Tan, and Jiashi Feng. Adversarial Self-Supervised Learning for Semi-Supervised 3d Action Recognition. In ECCV, 2020.</a>
 
 
